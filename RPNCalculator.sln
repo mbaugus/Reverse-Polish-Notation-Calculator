@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPNCalculator", "RPNCalculator\RPNCalculator.csproj", "{CC6A596D-2833-4E61-ADA0-1B506B95D0C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{28067111-0A69-4BE0-999F-58A42B39D038}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CC6A596D-2833-4E61-ADA0-1B506B95D0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6A596D-2833-4E61-ADA0-1B506B95D0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6A596D-2833-4E61-ADA0-1B506B95D0C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28067111-0A69-4BE0-999F-58A42B39D038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28067111-0A69-4BE0-999F-58A42B39D038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28067111-0A69-4BE0-999F-58A42B39D038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28067111-0A69-4BE0-999F-58A42B39D038}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
